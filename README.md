@@ -1,11 +1,11 @@
 # Beyond the Light Project
 Award Winning X11/OpenGL C++ Semester 2D-Game project
 
-Beyond the Light is a ghost hurnting game. We created a character, her name is Mortana, a ghost hunter.
-She walks around elimination ghosts as they appear and re-apper randomly from all different directions
-to frighten the character. Mortana has magical powers, she can electrecute the ghosts and
-cast spells. The spells elimininate the largest number of ghosts. 
-If the Mortana fails to detect the ghosts in time and one of them touches her, then she is scared to death, GAME OVER!
+Beyond the Light is a ghost hunting game. We created a character; her name is Mortana, a ghost hunter.
+She walks around eliminating ghosts as they appear and re-paper randomly from all different directions
+to frighten the character. Mortana has magical powers. She can electrocute ghosts and
+cast spells. The spells eliminate the largest number of ghosts. If Mortana fails to detect and eliminate any of the ghosts in time and it touches her, then its GAME OVER!
+
 
 # Getting Started
 Download the game and start playing!
